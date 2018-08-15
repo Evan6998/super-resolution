@@ -1,10 +1,10 @@
 # Python implementation of Super Resolution by Simple Function
-Implementation of Fast Direct Super-Resolution by Simple Functions [Fast Direct Super-Resolution by Simple Functions](http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6751179)
+Implementation of Fast Direct Super-Resolution by Simple Functions [Fast Direct Super-Resolution by Simple Functions](http://faculty.ucmerced.edu/mhyang/papers/iccv13_superresolution.pdf)
 
 An easy way to produce high resolution images using conventional methods including dictionary.
 
-## Setup
-Support numpy, opencv2, sklearn
+## Dependencies
+numpy, opencv2, sklearn
 
 ## Usage
 You should first add Training data into the 'Train' folder and add Set14 into 'Test'.  
